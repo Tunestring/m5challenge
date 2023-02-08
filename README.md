@@ -12,7 +12,7 @@
  
 
 ## License:
-See Repo for more information
+See repository for more license information
 
 ## Description:
 This is a day planner web application that will allow a user to keep basic track of work throughout the working day hours, typically 0800 - 1700. This application allows the user to enter and save text into any of the description fields. The data will then be saved into the browsers local storage. As the work day progresses, the hours previous to the current time wil be highlighted in gray, the current hour red, and the future hours will display green.
